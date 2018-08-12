@@ -1,0 +1,84 @@
+[{
+    "imgURL": "/static/device/test1.jpg",
+    "MagnetSYS": {
+        "title": "magnetTitle",
+        "fields": {
+            "magnet1":{
+                "isEqual": true,
+                "value": "magnet1x"
+            },
+            "magnet2": {
+                "isEqual": true,
+                "value": "magnet2"
+            }
+        }
+    },
+    "RadiofrequencySYS": {
+        "title": "radiofrequencyTitle",
+        "fields": {
+            "radiofrequency1": {
+                "isEqual": true,
+                "value": "radiofrequency1"
+            },
+            "radiofrequency2": {
+                "isEqual": true,
+                "value": "radiofrequency2"
+            }
+        }
+    },
+    "GradientSYS": {
+        "title": "gradientTitle",
+        "fields": {
+            "gradient1": {
+                "isEqual": true,
+                "value": "gradient1"
+            },
+            "gradient2": {
+                "isEqual": true,
+                "value": "gradient2"
+            }
+        }
+    }
+},
+{
+    "imgURL": "/static/device/test2.jpg",
+    "MagnetSYS": {
+        "title": "magnetTitle",
+        "fields": {
+            "magnet1":{
+                "isEqual": true,
+                "value": "magnet1"
+            },
+            "magnet2": {
+                "isEqual": true,
+                "value": "magnet2"
+            }
+        }
+    },
+    "RadiofrequencySYS": {
+        "title": "radiofrequencyTitle",
+        "fields": {
+            "radiofrequency1": {
+                "isEqual": true,
+                "value": "radiofrequency1"
+            },
+            "radiofrequency2": {
+                "isEqual": true,
+                "value": "radiofrequency2"
+            }
+        }
+    },
+    "SequenceInfor": {
+        "title": "gradientTitle",
+        "fields": {
+            "gradient1": {
+                "isEqual": true,
+                "value": "gradient1"
+            },
+            "gradient2": {
+                "isEqual": true,
+                "value": "gradient2"
+            }
+        }
+    }
+}]

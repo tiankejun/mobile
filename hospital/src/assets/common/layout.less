@@ -1,0 +1,47 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* min-height: 100vh; */
+}
+* {box-sizing: border-box;}
+.wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row;
+    flex-flow: row;
+    overflow: hidden;
+    background: #EEE;
+    .main {
+        display: flex;
+        -webkit-box-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: column;
+        overflow: hidden;
+        .right-header {
+            isplay: flex;
+            height: 40px;
+            line-height: 40px;
+            background: #FFF;
+        }
+        .right-main {
+            display: flex;
+            flex: 1;
+            margin-top: 10px;
+        }
+    }
+}
+

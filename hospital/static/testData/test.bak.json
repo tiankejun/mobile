@@ -1,0 +1,1817 @@
+[
+    {
+      "imgURL": "",
+      "MagnetSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 7,
+            "title": "射频频率（MHZ）",
+            "parentId": 1,
+            "key": "MHZ",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 8,
+            "title": "屏蔽方式",
+            "parentId": 1,
+            "key": "Shielding",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 9,
+            "title": "磁场均匀度（V-RMS）45cm DSV",
+            "parentId": 1,
+            "key": "MagneticUniformity1",
+            "sort": 3,
+            "isEqual": false,
+            "value": "0.382ppm",
+            "modelId": 22
+          },
+          {
+            "id": 10,
+            "title": "磁场均匀度（V-RMS）10cm DSV",
+            "parentId": 1,
+            "key": "agneticUniformity2",
+            "sort": 4,
+            "isEqual": false,
+            "value": "0.002ppm",
+            "modelId": 22
+          },
+          {
+            "id": 11,
+            "title": "磁场稳定性（ppm/小时）",
+            "parentId": 1,
+            "key": "MagneticStability",
+            "sort": 5,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 12,
+            "title": "冷却系统",
+            "parentId": 1,
+            "key": "CoolingSys",
+            "sort": 6,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 13,
+            "title": "液氦补充周期",
+            "parentId": 1,
+            "key": "LiquidCycle",
+            "sort": 7,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 14,
+            "title": "重量",
+            "parentId": 1,
+            "key": "Weight",
+            "sort": 8,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 15,
+            "title": "长度（z轴/cm)",
+            "parentId": 1,
+            "key": "Length1",
+            "sort": 9,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 22
+          },
+          {
+            "id": 16,
+            "title": "宽度（y轴/cm)",
+            "parentId": 1,
+            "key": "Width1",
+            "sort": 10,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 17,
+            "title": "高度（x轴/cm)",
+            "parentId": 1,
+            "key": "Height1",
+            "sort": 11,
+            "isEqual": false,
+            "value": "221cm",
+            "modelId": 22
+          },
+          {
+            "id": 18,
+            "title": "高斯线半径（径向）",
+            "parentId": 1,
+            "key": "GaussX",
+            "sort": 12,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 19,
+            "title": "高斯线半径（轴向）",
+            "parentId": 1,
+            "key": "GaussY",
+            "sort": 13,
+            "isEqual": false,
+            "value": "2.6m",
+            "modelId": 22
+          },
+          {
+            "id": 20,
+            "title": "最小安装面积",
+            "parentId": 1,
+            "key": "MinArea",
+            "sort": 14,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 21,
+            "title": "最低吊顶高度(cm)",
+            "parentId": 1,
+            "key": "MinCeilingHeight",
+            "sort": 15,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 24,
+            "title": "宽度",
+            "parentId": 1,
+            "key": "Width2",
+            "sort": 18,
+            "isEqual": false,
+            "value": "65cm",
+            "modelId": 22
+          },
+          {
+            "id": 25,
+            "title": "长度",
+            "parentId": 1,
+            "key": "Length2",
+            "sort": 19,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 26,
+            "title": "高度",
+            "parentId": 1,
+            "key": "Height2",
+            "sort": 20,
+            "isEqual": false,
+            "value": "44.6cm",
+            "modelId": 22
+          },
+          {
+            "id": 27,
+            "title": "检查床",
+            "parentId": 1,
+            "key": "CheckBed",
+            "sort": 21,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 28,
+            "title": "最小高度",
+            "parentId": 1,
+            "key": "MinHeight",
+            "sort": 22,
+            "isEqual": false,
+            "value": "52cm",
+            "modelId": 22
+          },
+          {
+            "id": 29,
+            "title": "最大高度",
+            "parentId": 1,
+            "key": "MaxHeight",
+            "sort": 23,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 30,
+            "title": "床板宽度",
+            "parentId": 1,
+            "key": "BedWidth",
+            "sort": 24,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 31,
+            "title": "最大承重量",
+            "parentId": 1,
+            "key": "MaxWeight",
+            "sort": 25,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          }
+        ]
+      },
+      "RadiofrequencySYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 32,
+            "title": "名称/类型/版本",
+            "parentId": 2,
+            "key": "NameTypeVersion",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 33,
+            "title": "独立射频接收通道数量（标准/各种选配）",
+            "parentId": 2,
+            "key": "AloneRFNumber",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "GradientSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 34,
+            "title": "最大单轴梯度场强度（mT/m）",
+            "parentId": 3,
+            "key": "MaxGradientStrength",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 35,
+            "title": "X轴",
+            "parentId": 3,
+            "key": "AxisX1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "SequenceInfor": {
+        "title": "",
+        "fields": [
+          {
+            "id": 36,
+            "title": "速度参数（采集矩阵256*256）",
+            "parentId": 4,
+            "key": "VelocityParam",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 37,
+            "title": "最小TR（自旋回波SE）",
+            "parentId": 4,
+            "key": "MinTR",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "ComputerSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 38,
+            "title": "主机系统",
+            "parentId": 5,
+            "key": "HostSys",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 39,
+            "title": "操作系统",
+            "parentId": 5,
+            "key": "OperatingSys",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "RFCoilSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 40,
+            "title": "内置射频发射线圈",
+            "parentId": 6,
+            "key": "RFBuiltIn",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 41,
+            "title": "名称",
+            "parentId": 6,
+            "key": "Name1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      }
+    },
+    {
+      "imgURL": "",
+      "MagnetSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 7,
+            "title": "射频频率（MHZ）",
+            "parentId": 1,
+            "key": "MHZ",
+            "sort": 1,
+            "isEqual": false,
+            "value": "128.23",
+            "modelId": 23
+          },
+          {
+            "id": 8,
+            "title": "屏蔽方式",
+            "parentId": 1,
+            "key": "Shielding",
+            "sort": 2,
+            "isEqual": false,
+            "value": "主动屏蔽",
+            "modelId": 23
+          },
+          {
+            "id": 9,
+            "title": "磁场均匀度（V-RMS）45cm DSV",
+            "parentId": 1,
+            "key": "MagneticUniformity1",
+            "sort": 3,
+            "isEqual": false,
+            "value": "0.382ppm",
+            "modelId": 23
+          },
+          {
+            "id": 10,
+            "title": "磁场均匀度（V-RMS）10cm DSV",
+            "parentId": 1,
+            "key": "agneticUniformity2",
+            "sort": 4,
+            "isEqual": false,
+            "value": "0.002ppm",
+            "modelId": 23
+          },
+          {
+            "id": 11,
+            "title": "磁场稳定性（ppm/小时）",
+            "parentId": 1,
+            "key": "MagneticStability",
+            "sort": 5,
+            "isEqual": false,
+            "value": "<0.1",
+            "modelId": 23
+          },
+          {
+            "id": 12,
+            "title": "冷却系统",
+            "parentId": 1,
+            "key": "CoolingSys",
+            "sort": 6,
+            "isEqual": false,
+            "value": "液氦",
+            "modelId": 23
+          },
+          {
+            "id": 13,
+            "title": "液氦补充周期",
+            "parentId": 1,
+            "key": "LiquidCycle",
+            "sort": 7,
+            "isEqual": false,
+            "value": "无",
+            "modelId": 23
+          },
+          {
+            "id": 14,
+            "title": "重量",
+            "parentId": 1,
+            "key": "Weight",
+            "sort": 8,
+            "isEqual": false,
+            "value": "5900kg",
+            "modelId": 23
+          },
+          {
+            "id": 15,
+            "title": "长度（z轴/cm)",
+            "parentId": 1,
+            "key": "Length1",
+            "sort": 9,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 23
+          },
+          {
+            "id": 16,
+            "title": "宽度（y轴/cm)",
+            "parentId": 1,
+            "key": "Width1",
+            "sort": 10,
+            "isEqual": false,
+            "value": "212cm",
+            "modelId": 23
+          },
+          {
+            "id": 17,
+            "title": "高度（x轴/cm)",
+            "parentId": 1,
+            "key": "Height1",
+            "sort": 11,
+            "isEqual": false,
+            "value": "221cm",
+            "modelId": 23
+          },
+          {
+            "id": 18,
+            "title": "高斯线半径（径向）",
+            "parentId": 1,
+            "key": "GaussX",
+            "sort": 12,
+            "isEqual": false,
+            "value": "4.7m",
+            "modelId": 23
+          },
+          {
+            "id": 19,
+            "title": "高斯线半径（轴向）",
+            "parentId": 1,
+            "key": "GaussY",
+            "sort": 13,
+            "isEqual": false,
+            "value": "2.6m",
+            "modelId": 23
+          },
+          {
+            "id": 20,
+            "title": "最小安装面积",
+            "parentId": 1,
+            "key": "MinArea",
+            "sort": 14,
+            "isEqual": false,
+            "value": "22.8m²",
+            "modelId": 23
+          },
+          {
+            "id": 21,
+            "title": "最低吊顶高度(cm)",
+            "parentId": 1,
+            "key": "MinCeilingHeight",
+            "sort": 15,
+            "isEqual": false,
+            "value": "285cm",
+            "modelId": 23
+          },
+          {
+            "id": 24,
+            "title": "宽度",
+            "parentId": 1,
+            "key": "Width2",
+            "sort": 18,
+            "isEqual": false,
+            "value": "65cm",
+            "modelId": 23
+          },
+          {
+            "id": 25,
+            "title": "长度",
+            "parentId": 1,
+            "key": "Length2",
+            "sort": 19,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 23
+          },
+          {
+            "id": 26,
+            "title": "高度",
+            "parentId": 1,
+            "key": "Height2",
+            "sort": 20,
+            "isEqual": false,
+            "value": "44.6cm",
+            "modelId": 23
+          },
+          {
+            "id": 27,
+            "title": "检查床",
+            "parentId": 1,
+            "key": "CheckBed",
+            "sort": 21,
+            "isEqual": false,
+            "value": "",
+            "modelId": 23
+          },
+          {
+            "id": 28,
+            "title": "最小高度",
+            "parentId": 1,
+            "key": "MinHeight",
+            "sort": 22,
+            "isEqual": false,
+            "value": "52cm",
+            "modelId": 23
+          },
+          {
+            "id": 29,
+            "title": "最大高度",
+            "parentId": 1,
+            "key": "MaxHeight",
+            "sort": 23,
+            "isEqual": false,
+            "value": "88cm",
+            "modelId": 23
+          },
+          {
+            "id": 30,
+            "title": "床板宽度",
+            "parentId": 1,
+            "key": "BedWidth",
+            "sort": 24,
+            "isEqual": false,
+            "value": "64cm",
+            "modelId": 23
+          },
+          {
+            "id": 31,
+            "title": "最大承重量",
+            "parentId": 1,
+            "key": "MaxWeight",
+            "sort": 25,
+            "isEqual": false,
+            "value": "250kg",
+            "modelId": 23
+          }
+        ]
+      },
+      "RadiofrequencySYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 32,
+            "title": "名称/类型/版本",
+            "parentId": 2,
+            "key": "NameTypeVersion",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 33,
+            "title": "独立射频接收通道数量（标准/各种选配）",
+            "parentId": 2,
+            "key": "AloneRFNumber",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "GradientSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 34,
+            "title": "最大单轴梯度场强度（mT/m）",
+            "parentId": 3,
+            "key": "MaxGradientStrength",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 35,
+            "title": "X轴",
+            "parentId": 3,
+            "key": "AxisX1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "SequenceInfor": {
+        "title": "",
+        "fields": [
+          {
+            "id": 36,
+            "title": "速度参数（采集矩阵256*256）",
+            "parentId": 4,
+            "key": "VelocityParam",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 37,
+            "title": "最小TR（自旋回波SE）",
+            "parentId": 4,
+            "key": "MinTR",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "ComputerSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 38,
+            "title": "主机系统",
+            "parentId": 5,
+            "key": "HostSys",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 39,
+            "title": "操作系统",
+            "parentId": 5,
+            "key": "OperatingSys",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "RFCoilSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 40,
+            "title": "内置射频发射线圈",
+            "parentId": 6,
+            "key": "RFBuiltIn",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 41,
+            "title": "名称",
+            "parentId": 6,
+            "key": "Name1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      }
+    },
+    {
+      "imgURL": "",
+      "MagnetSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 7,
+            "title": "射频频率（MHZ）",
+            "parentId": 1,
+            "key": "MHZ",
+            "sort": 1,
+            "isEqual": false,
+            "value": "128.23",
+            "modelId": 22
+          },
+          {
+            "id": 8,
+            "title": "屏蔽方式",
+            "parentId": 1,
+            "key": "Shielding",
+            "sort": 2,
+            "isEqual": false,
+            "value": "主动屏蔽",
+            "modelId": 22
+          },
+          {
+            "id": 9,
+            "title": "磁场均匀度（V-RMS）45cm DSV",
+            "parentId": 1,
+            "key": "MagneticUniformity1",
+            "sort": 3,
+            "isEqual": false,
+            "value": "0.382ppm",
+            "modelId": 22
+          },
+          {
+            "id": 10,
+            "title": "磁场均匀度（V-RMS）10cm DSV",
+            "parentId": 1,
+            "key": "agneticUniformity2",
+            "sort": 4,
+            "isEqual": false,
+            "value": "0.002ppm",
+            "modelId": 22
+          },
+          {
+            "id": 11,
+            "title": "磁场稳定性（ppm/小时）",
+            "parentId": 1,
+            "key": "MagneticStability",
+            "sort": 5,
+            "isEqual": false,
+            "value": "<0.1",
+            "modelId": 22
+          },
+          {
+            "id": 12,
+            "title": "冷却系统",
+            "parentId": 1,
+            "key": "CoolingSys",
+            "sort": 6,
+            "isEqual": false,
+            "value": "液氦",
+            "modelId": 22
+          },
+          {
+            "id": 13,
+            "title": "液氦补充周期",
+            "parentId": 1,
+            "key": "LiquidCycle",
+            "sort": 7,
+            "isEqual": false,
+            "value": "无",
+            "modelId": 22
+          },
+          {
+            "id": 14,
+            "title": "重量",
+            "parentId": 1,
+            "key": "Weight",
+            "sort": 8,
+            "isEqual": false,
+            "value": "5900kg",
+            "modelId": 22
+          },
+          {
+            "id": 15,
+            "title": "长度（z轴/cm)",
+            "parentId": 1,
+            "key": "Length1",
+            "sort": 9,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 22
+          },
+          {
+            "id": 16,
+            "title": "宽度（y轴/cm)",
+            "parentId": 1,
+            "key": "Width1",
+            "sort": 10,
+            "isEqual": false,
+            "value": "212cm",
+            "modelId": 22
+          },
+          {
+            "id": 17,
+            "title": "高度（x轴/cm)",
+            "parentId": 1,
+            "key": "Height1",
+            "sort": 11,
+            "isEqual": false,
+            "value": "221cm",
+            "modelId": 22
+          },
+          {
+            "id": 18,
+            "title": "高斯线半径（径向）",
+            "parentId": 1,
+            "key": "GaussX",
+            "sort": 12,
+            "isEqual": false,
+            "value": "4.7m",
+            "modelId": 22
+          },
+          {
+            "id": 19,
+            "title": "高斯线半径（轴向）",
+            "parentId": 1,
+            "key": "GaussY",
+            "sort": 13,
+            "isEqual": false,
+            "value": "2.6m",
+            "modelId": 22
+          },
+          {
+            "id": 20,
+            "title": "最小安装面积",
+            "parentId": 1,
+            "key": "MinArea",
+            "sort": 14,
+            "isEqual": false,
+            "value": "22.8m²",
+            "modelId": 22
+          },
+          {
+            "id": 21,
+            "title": "最低吊顶高度(cm)",
+            "parentId": 1,
+            "key": "MinCeilingHeight",
+            "sort": 15,
+            "isEqual": false,
+            "value": "285cm",
+            "modelId": 22
+          },
+          {
+            "id": 24,
+            "title": "宽度",
+            "parentId": 1,
+            "key": "Width2",
+            "sort": 18,
+            "isEqual": false,
+            "value": "65cm",
+            "modelId": 22
+          },
+          {
+            "id": 25,
+            "title": "长度",
+            "parentId": 1,
+            "key": "Length2",
+            "sort": 19,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 22
+          },
+          {
+            "id": 26,
+            "title": "高度",
+            "parentId": 1,
+            "key": "Height2",
+            "sort": 20,
+            "isEqual": false,
+            "value": "44.6cm",
+            "modelId": 22
+          },
+          {
+            "id": 27,
+            "title": "检查床",
+            "parentId": 1,
+            "key": "CheckBed",
+            "sort": 21,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 28,
+            "title": "最小高度",
+            "parentId": 1,
+            "key": "MinHeight",
+            "sort": 22,
+            "isEqual": false,
+            "value": "52cm",
+            "modelId": 22
+          },
+          {
+            "id": 29,
+            "title": "最大高度",
+            "parentId": 1,
+            "key": "MaxHeight",
+            "sort": 23,
+            "isEqual": false,
+            "value": "88cm",
+            "modelId": 22
+          },
+          {
+            "id": 30,
+            "title": "床板宽度",
+            "parentId": 1,
+            "key": "BedWidth",
+            "sort": 24,
+            "isEqual": false,
+            "value": "64cm",
+            "modelId": 22
+          },
+          {
+            "id": 31,
+            "title": "最大承重量",
+            "parentId": 1,
+            "key": "MaxWeight",
+            "sort": 25,
+            "isEqual": false,
+            "value": "250kg",
+            "modelId": 22
+          }
+        ]
+      },
+      "RadiofrequencySYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 32,
+            "title": "名称/类型/版本",
+            "parentId": 2,
+            "key": "NameTypeVersion",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 33,
+            "title": "独立射频接收通道数量（标准/各种选配）",
+            "parentId": 2,
+            "key": "AloneRFNumber",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "GradientSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 34,
+            "title": "最大单轴梯度场强度（mT/m）",
+            "parentId": 3,
+            "key": "MaxGradientStrength",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 35,
+            "title": "X轴",
+            "parentId": 3,
+            "key": "AxisX1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "SequenceInfor": {
+        "title": "",
+        "fields": [
+          {
+            "id": 36,
+            "title": "速度参数（采集矩阵256*256）",
+            "parentId": 4,
+            "key": "VelocityParam",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 37,
+            "title": "最小TR（自旋回波SE）",
+            "parentId": 4,
+            "key": "MinTR",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "ComputerSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 38,
+            "title": "主机系统",
+            "parentId": 5,
+            "key": "HostSys",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 39,
+            "title": "操作系统",
+            "parentId": 5,
+            "key": "OperatingSys",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "RFCoilSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 40,
+            "title": "内置射频发射线圈",
+            "parentId": 6,
+            "key": "RFBuiltIn",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 41,
+            "title": "名称",
+            "parentId": 6,
+            "key": "Name1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      }
+    },
+    {
+      "imgURL": "",
+      "MagnetSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 7,
+            "title": "射频频率（MHZ）",
+            "parentId": 1,
+            "key": "MHZ",
+            "sort": 1,
+            "isEqual": false,
+            "value": "128.23",
+            "modelId": 23
+          },
+          {
+            "id": 8,
+            "title": "屏蔽方式",
+            "parentId": 1,
+            "key": "Shielding",
+            "sort": 2,
+            "isEqual": false,
+            "value": "主动屏蔽",
+            "modelId": 23
+          },
+          {
+            "id": 9,
+            "title": "磁场均匀度（V-RMS）45cm DSV",
+            "parentId": 1,
+            "key": "MagneticUniformity1",
+            "sort": 3,
+            "isEqual": false,
+            "value": "0.382ppm",
+            "modelId": 23
+          },
+          {
+            "id": 10,
+            "title": "磁场均匀度（V-RMS）10cm DSV",
+            "parentId": 1,
+            "key": "agneticUniformity2",
+            "sort": 4,
+            "isEqual": false,
+            "value": "0.002ppm",
+            "modelId": 23
+          },
+          {
+            "id": 11,
+            "title": "磁场稳定性（ppm/小时）",
+            "parentId": 1,
+            "key": "MagneticStability",
+            "sort": 5,
+            "isEqual": false,
+            "value": "<0.1",
+            "modelId": 23
+          },
+          {
+            "id": 12,
+            "title": "冷却系统",
+            "parentId": 1,
+            "key": "CoolingSys",
+            "sort": 6,
+            "isEqual": false,
+            "value": "液氦",
+            "modelId": 23
+          },
+          {
+            "id": 13,
+            "title": "液氦补充周期",
+            "parentId": 1,
+            "key": "LiquidCycle",
+            "sort": 7,
+            "isEqual": false,
+            "value": "无",
+            "modelId": 23
+          },
+          {
+            "id": 14,
+            "title": "重量",
+            "parentId": 1,
+            "key": "Weight",
+            "sort": 8,
+            "isEqual": false,
+            "value": "5900kg",
+            "modelId": 23
+          },
+          {
+            "id": 15,
+            "title": "长度（z轴/cm)",
+            "parentId": 1,
+            "key": "Length1",
+            "sort": 9,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 23
+          },
+          {
+            "id": 16,
+            "title": "宽度（y轴/cm)",
+            "parentId": 1,
+            "key": "Width1",
+            "sort": 10,
+            "isEqual": false,
+            "value": "212cm",
+            "modelId": 23
+          },
+          {
+            "id": 17,
+            "title": "高度（x轴/cm)",
+            "parentId": 1,
+            "key": "Height1",
+            "sort": 11,
+            "isEqual": false,
+            "value": "221cm",
+            "modelId": 23
+          },
+          {
+            "id": 18,
+            "title": "高斯线半径（径向）",
+            "parentId": 1,
+            "key": "GaussX",
+            "sort": 12,
+            "isEqual": false,
+            "value": "4.7m",
+            "modelId": 23
+          },
+          {
+            "id": 19,
+            "title": "高斯线半径（轴向）",
+            "parentId": 1,
+            "key": "GaussY",
+            "sort": 13,
+            "isEqual": false,
+            "value": "2.6m",
+            "modelId": 23
+          },
+          {
+            "id": 20,
+            "title": "最小安装面积",
+            "parentId": 1,
+            "key": "MinArea",
+            "sort": 14,
+            "isEqual": false,
+            "value": "22.8m²",
+            "modelId": 23
+          },
+          {
+            "id": 21,
+            "title": "最低吊顶高度(cm)",
+            "parentId": 1,
+            "key": "MinCeilingHeight",
+            "sort": 15,
+            "isEqual": false,
+            "value": "285cm",
+            "modelId": 23
+          },
+          {
+            "id": 24,
+            "title": "宽度",
+            "parentId": 1,
+            "key": "Width2",
+            "sort": 18,
+            "isEqual": false,
+            "value": "65cm",
+            "modelId": 23
+          },
+          {
+            "id": 25,
+            "title": "长度",
+            "parentId": 1,
+            "key": "Length2",
+            "sort": 19,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 23
+          },
+          {
+            "id": 26,
+            "title": "高度",
+            "parentId": 1,
+            "key": "Height2",
+            "sort": 20,
+            "isEqual": false,
+            "value": "44.6cm",
+            "modelId": 23
+          },
+          {
+            "id": 27,
+            "title": "检查床",
+            "parentId": 1,
+            "key": "CheckBed",
+            "sort": 21,
+            "isEqual": false,
+            "value": "",
+            "modelId": 23
+          },
+          {
+            "id": 28,
+            "title": "最小高度",
+            "parentId": 1,
+            "key": "MinHeight",
+            "sort": 22,
+            "isEqual": false,
+            "value": "52cm",
+            "modelId": 23
+          },
+          {
+            "id": 29,
+            "title": "最大高度",
+            "parentId": 1,
+            "key": "MaxHeight",
+            "sort": 23,
+            "isEqual": false,
+            "value": "88cm",
+            "modelId": 23
+          },
+          {
+            "id": 30,
+            "title": "床板宽度",
+            "parentId": 1,
+            "key": "BedWidth",
+            "sort": 24,
+            "isEqual": false,
+            "value": "64cm",
+            "modelId": 23
+          },
+          {
+            "id": 31,
+            "title": "最大承重量",
+            "parentId": 1,
+            "key": "MaxWeight",
+            "sort": 25,
+            "isEqual": false,
+            "value": "250kg",
+            "modelId": 23
+          }
+        ]
+      },
+      "RadiofrequencySYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 32,
+            "title": "名称/类型/版本",
+            "parentId": 2,
+            "key": "NameTypeVersion",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 33,
+            "title": "独立射频接收通道数量（标准/各种选配）",
+            "parentId": 2,
+            "key": "AloneRFNumber",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "GradientSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 34,
+            "title": "最大单轴梯度场强度（mT/m）",
+            "parentId": 3,
+            "key": "MaxGradientStrength",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 35,
+            "title": "X轴",
+            "parentId": 3,
+            "key": "AxisX1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "SequenceInfor": {
+        "title": "",
+        "fields": [
+          {
+            "id": 36,
+            "title": "速度参数（采集矩阵256*256）",
+            "parentId": 4,
+            "key": "VelocityParam",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 37,
+            "title": "最小TR（自旋回波SE）",
+            "parentId": 4,
+            "key": "MinTR",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "ComputerSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 38,
+            "title": "主机系统",
+            "parentId": 5,
+            "key": "HostSys",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 39,
+            "title": "操作系统",
+            "parentId": 5,
+            "key": "OperatingSys",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "RFCoilSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 40,
+            "title": "内置射频发射线圈",
+            "parentId": 6,
+            "key": "RFBuiltIn",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 41,
+            "title": "名称",
+            "parentId": 6,
+            "key": "Name1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      }
+    },
+    {
+      "imgURL": "",
+      "MagnetSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 7,
+            "title": "射频频率（MHZ）",
+            "parentId": 1,
+            "key": "MHZ",
+            "sort": 1,
+            "isEqual": false,
+            "value": "128.23",
+            "modelId": 22
+          },
+          {
+            "id": 8,
+            "title": "屏蔽方式",
+            "parentId": 1,
+            "key": "Shielding",
+            "sort": 2,
+            "isEqual": false,
+            "value": "主动屏蔽",
+            "modelId": 22
+          },
+          {
+            "id": 9,
+            "title": "磁场均匀度（V-RMS）45cm DSV",
+            "parentId": 1,
+            "key": "MagneticUniformity1",
+            "sort": 3,
+            "isEqual": false,
+            "value": "0.382ppm",
+            "modelId": 22
+          },
+          {
+            "id": 10,
+            "title": "磁场均匀度（V-RMS）10cm DSV",
+            "parentId": 1,
+            "key": "agneticUniformity2",
+            "sort": 4,
+            "isEqual": false,
+            "value": "0.002ppm",
+            "modelId": 22
+          },
+          {
+            "id": 11,
+            "title": "磁场稳定性（ppm/小时）",
+            "parentId": 1,
+            "key": "MagneticStability",
+            "sort": 5,
+            "isEqual": false,
+            "value": "<0.1",
+            "modelId": 22
+          },
+          {
+            "id": 12,
+            "title": "冷却系统",
+            "parentId": 1,
+            "key": "CoolingSys",
+            "sort": 6,
+            "isEqual": false,
+            "value": "液氦",
+            "modelId": 22
+          },
+          {
+            "id": 13,
+            "title": "液氦补充周期",
+            "parentId": 1,
+            "key": "LiquidCycle",
+            "sort": 7,
+            "isEqual": false,
+            "value": "无",
+            "modelId": 22
+          },
+          {
+            "id": 14,
+            "title": "重量",
+            "parentId": 1,
+            "key": "Weight",
+            "sort": 8,
+            "isEqual": false,
+            "value": "5900kg",
+            "modelId": 22
+          },
+          {
+            "id": 15,
+            "title": "长度（z轴/cm)",
+            "parentId": 1,
+            "key": "Length1",
+            "sort": 9,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 22
+          },
+          {
+            "id": 16,
+            "title": "宽度（y轴/cm)",
+            "parentId": 1,
+            "key": "Width1",
+            "sort": 10,
+            "isEqual": false,
+            "value": "212cm",
+            "modelId": 22
+          },
+          {
+            "id": 17,
+            "title": "高度（x轴/cm)",
+            "parentId": 1,
+            "key": "Height1",
+            "sort": 11,
+            "isEqual": false,
+            "value": "221cm",
+            "modelId": 22
+          },
+          {
+            "id": 18,
+            "title": "高斯线半径（径向）",
+            "parentId": 1,
+            "key": "GaussX",
+            "sort": 12,
+            "isEqual": false,
+            "value": "4.7m",
+            "modelId": 22
+          },
+          {
+            "id": 19,
+            "title": "高斯线半径（轴向）",
+            "parentId": 1,
+            "key": "GaussY",
+            "sort": 13,
+            "isEqual": false,
+            "value": "2.6m",
+            "modelId": 22
+          },
+          {
+            "id": 20,
+            "title": "最小安装面积",
+            "parentId": 1,
+            "key": "MinArea",
+            "sort": 14,
+            "isEqual": false,
+            "value": "22.8m²",
+            "modelId": 22
+          },
+          {
+            "id": 21,
+            "title": "最低吊顶高度(cm)",
+            "parentId": 1,
+            "key": "MinCeilingHeight",
+            "sort": 15,
+            "isEqual": false,
+            "value": "285cm",
+            "modelId": 22
+          },
+          {
+            "id": 24,
+            "title": "宽度",
+            "parentId": 1,
+            "key": "Width2",
+            "sort": 18,
+            "isEqual": false,
+            "value": "65cm",
+            "modelId": 22
+          },
+          {
+            "id": 25,
+            "title": "长度",
+            "parentId": 1,
+            "key": "Length2",
+            "sort": 19,
+            "isEqual": false,
+            "value": "170cm",
+            "modelId": 22
+          },
+          {
+            "id": 26,
+            "title": "高度",
+            "parentId": 1,
+            "key": "Height2",
+            "sort": 20,
+            "isEqual": false,
+            "value": "44.6cm",
+            "modelId": 22
+          },
+          {
+            "id": 27,
+            "title": "检查床",
+            "parentId": 1,
+            "key": "CheckBed",
+            "sort": 21,
+            "isEqual": false,
+            "value": "",
+            "modelId": 22
+          },
+          {
+            "id": 28,
+            "title": "最小高度",
+            "parentId": 1,
+            "key": "MinHeight",
+            "sort": 22,
+            "isEqual": false,
+            "value": "52cm",
+            "modelId": 22
+          },
+          {
+            "id": 29,
+            "title": "最大高度",
+            "parentId": 1,
+            "key": "MaxHeight",
+            "sort": 23,
+            "isEqual": false,
+            "value": "88cm",
+            "modelId": 22
+          },
+          {
+            "id": 30,
+            "title": "床板宽度",
+            "parentId": 1,
+            "key": "BedWidth",
+            "sort": 24,
+            "isEqual": false,
+            "value": "64cm",
+            "modelId": 22
+          },
+          {
+            "id": 31,
+            "title": "最大承重量",
+            "parentId": 1,
+            "key": "MaxWeight",
+            "sort": 25,
+            "isEqual": false,
+            "value": "250kg",
+            "modelId": 22
+          }
+        ]
+      },
+      "RadiofrequencySYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 32,
+            "title": "名称/类型/版本",
+            "parentId": 2,
+            "key": "NameTypeVersion",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 33,
+            "title": "独立射频接收通道数量（标准/各种选配）",
+            "parentId": 2,
+            "key": "AloneRFNumber",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "GradientSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 34,
+            "title": "最大单轴梯度场强度（mT/m）",
+            "parentId": 3,
+            "key": "MaxGradientStrength",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 35,
+            "title": "X轴",
+            "parentId": 3,
+            "key": "AxisX1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "SequenceInfor": {
+        "title": "",
+        "fields": [
+          {
+            "id": 36,
+            "title": "速度参数（采集矩阵256*256）",
+            "parentId": 4,
+            "key": "VelocityParam",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 37,
+            "title": "最小TR（自旋回波SE）",
+            "parentId": 4,
+            "key": "MinTR",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "ComputerSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 38,
+            "title": "主机系统",
+            "parentId": 5,
+            "key": "HostSys",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 39,
+            "title": "操作系统",
+            "parentId": 5,
+            "key": "OperatingSys",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      },
+      "RFCoilSYS": {
+        "title": "",
+        "fields": [
+          {
+            "id": 40,
+            "title": "内置射频发射线圈",
+            "parentId": 6,
+            "key": "RFBuiltIn",
+            "sort": 1,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          },
+          {
+            "id": 41,
+            "title": "名称",
+            "parentId": 6,
+            "key": "Name1",
+            "sort": 2,
+            "isEqual": false,
+            "value": "",
+            "modelId": null
+          }
+        ]
+      }
+    }
+  ]

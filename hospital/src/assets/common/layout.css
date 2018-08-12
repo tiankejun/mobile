@@ -1,0 +1,58 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* min-height: 100vh; */
+}
+.icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url(../../../static/img/admin.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.icon-electrocardio {background-image: url(../../../static/img/electrocardio.png);}
+.icon-data {background-image: url(../../../static/img/data.png);}
+.icon-admin {background-image: url(../../../static/img/admin.png);}
+.icon-hospital {background-image: url(../../../static/img/hospital.png);}
+.navigat {display: block;}
+.side-bar .full-logo { width: 100px; height: 100px; margin: 40px auto; background: greenyellow}
+.side-bar .small-logo { width: 46px; height: 46px; margin: 40px auto; background: indianred}
+.side-bar .switch {margin: 20px auto;}
+.main {
+    display: block;
+}
+.wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row;
+    flex-flow: row;
+}
+.flex {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.sideSystem-full { width: 180px;}
+.sideSystem-mini { width: 46px;}
+.sideSystem-full, .sideSystem-mini {
+    background: #2e3d51;
+    overflow: auto;
+    color: #bdbdbd;
+    position: relative;
+    -webkit-transition-duration: 300ms;
+    transition-duration: 300ms;
+}
+.colomm {
+    padding: 0 20px;
+}
